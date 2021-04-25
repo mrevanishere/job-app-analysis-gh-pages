@@ -8,3 +8,7 @@ This data was analyzed on my own 21-04-24 job applications small dataset.
 Terms:
 * IR - initial response (Initial response after application including OA, Phone Screens, Interviews)
 * IRR - initial response rate
+# Libraries Used:
+* pandas/numpy
+* altair (matplotlib alternative)
+* matplotlib
